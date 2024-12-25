@@ -4,6 +4,7 @@ target
 # idea 
 *.iml
 .idea
+*.DS_Store
 
 # node modules for grunt
 server/webtarget/node
